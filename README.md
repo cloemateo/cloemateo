@@ -191,7 +191,7 @@ Anjali-Desai-Portfolio/
 
 ## 📷 Portfolio Preview
 
-![Portfolio Screenshoot] (portfoliopreview.jpg) ?????
+![Portfolio Preview](portfolio%20preview.png)
 
 ## Getting Started?????
 

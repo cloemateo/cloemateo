@@ -4,10 +4,11 @@
 
 ![Static Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcloe-mateo%2F) ![Static Badge](https://img.shields.io/badge/GITHUB-black?style=flat&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fcloemateo.github.io%2Fcloemateo%2F) ![Static Badge](https://img.shields.io/badge/EMAIL-red?style=flat&logo=gmail&logoColor=red&logoSize=auto&labelColor=white&color=red&link=cloemateo22%40gmail.com)
 
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloe-mateo/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloemateo) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cloemateo22@gmail.com)
+## 🌐 Live website
 
-[🌐 Live Portfolio](https://ragini-po.....INSEEEERT LINK.)
+[View Portfolio](https://cloemateo.github.io/portfolio/)
 
 ---
 
@@ -190,7 +191,7 @@ Anjali-Desai-Portfolio/
 
 ## 📷 Portfolio Preview
 
-image......
+![Portfolio Screenshoot] (portfoliopreview.jpg) ?????
 
 ## Getting Started?????
 

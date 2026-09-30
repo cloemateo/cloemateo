@@ -147,44 +147,59 @@ Some of the certifications and learning credentials showcased in my portfolio in
 ## 📁 Project Structure
 
 ```text
-Cloe_Portfolio/
+cloemateo/
+│
+├── index.html                                                                              # Main HTML file
+├── style.css                                                                               # All styling and animations
+├── README.md                                                                               # Project documentation
+├── resume.pdf                                                                              # Resume
 │
 ├── assets/
-│   ├── certificates/      # Certificate preview images
-│   ├── profile/           
+│   ├── certifications/                                                                     # Certificate preview images or PDF
+│   │   ├── Oracle Playbook for Supply Chain Excellence: Training & Assessment.pdf
+│   │   ├── Anthropic: AI Fluency: Framework & Foundations.pdf
+│   │   ├── BM SkillsBuild: Getting Started with Artificial Intelligence.pdf
+│   │   ├── BM SkillsBuild: AI Literacy.pdf
+│   │   ├── DelftX: Introduction to Aeronautical Engineering.pdf
+│   │   ├── Lean Six Sigma Green Belt .pdf
+│   │   └── BTEC International Level 3 Information Technology.pdf
+│   │
 │   ├── projects/
-│   └── resume/
+│   │   ├── NASA Airfoil Self-Noise Analysis/
+│   │   │   ├── README.md
+│   │   │   ├── 
+│   │   │   └── ...
+│   │   ├── Ergonomic Risk Assessment of Lifting Tasks/
+│   │   │   ├── README.md
+│   │   │   ├── 
+│   │   │   └── ...
+│   │   ├── Weather Prediction Program/
+│   │   │   ├── README.md
+│   │   │   ├── notebook.ipynb
+│   │   │   └── ...
+│   │   ├── Vehicle Design/
+│   │   │   ├── README.md
+│   │   │   ├── 
+│   │   │   └── ...
+│   │   ├── Roller Coaster Physics Analysisg/
+│   │   │   ├── README.md
+│   │   │   ├── 
+│   │   │   └── ...
+│   │   ├── Restaurant Website Development/
+│   │   │   ├── README.md
+│   │   │   ├── 
+│   │   │   └── ...
+│   │
+│   ├── images/                                                                              # Main images
+│   │   ├── portfolio-preview.png
+│   │   └── ...
+│   │
+│   └── icons/                                                                               # Icon assets
+│       └── ...
 │
-├── index.html
-├── script.js
-├── style.css
-└── README.md              # Project documentation
-
-
-
-
-example 2:
-Anjali-Desai-Portfolio/
-├── index.html              # Main HTML file
-├── style.css               # All styling and animations
-├── script.js               # Interactive functionality
-├── README.md               # Project documentation
-├── LICENSE                 # MIT License
-├── cert_pdf/               # PDF certificates and resume
-│   ├── Anjali_Desai_Resume.pdf
-│   ├── Brown-Certificate.pdf
-│   └── ...
-├── cert_img/               # Certificate preview images
-│   ├── cert-brown.jpg
-│   ├── cert-pcep.jpg
-│   └── ...
-├── icons/                  # Icon assets
-│   ├── icon-stock.png
-│   ├── icon-cancer.png
-│   └── ...
-└── images/                 # Main images
-    ├── hero-photo.png
-    └── about-photo.jpeg
+└── .github/                                                                                 # Github automations
+    └── workflows/
+        └── resume.yml
 ```
 
 ---

@@ -2,7 +2,9 @@
 
 > Personal portfolio website showcasing my skills, professional experience, projects, certifications, education, and technical journey.
 
-![Static Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcloe-mateo%2F) ![Static Badge](https://img.shields.io/badge/GITHUB-black?style=flat&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fcloemateo.github.io%2Fcloemateo%2F) ![Static Badge](https://img.shields.io/badge/EMAIL-red?style=flat&logo=gmail&logoColor=red&logoSize=auto&labelColor=white&color=red&link=cloemateo22%40gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloe-mateo/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cloemateo) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cloemateo22@gmail.com)
 
 ---
 
@@ -69,8 +71,6 @@ Statistical analysis of NACA 0012 wind-tunnel data to investigate factors affect
 - Minitab-based data analysis
 - Aerodynamic noise investigation
 
-🔗 [GitHub](git link)
-
 ---
 
 ### 2. Barcelona Weather Forecasting
@@ -83,8 +83,6 @@ A Python-based forecasting program using historical hourly weather data and mach
 - Historical weather data analysis
 - Machine learning application
 - Future weather prediction
-
-🔗 [GitHub](git link)
 
 ---
 
@@ -99,8 +97,6 @@ Analysis of lumbar spine loads and injury risk during manual lifting tasks.
 - Applied mechanics and data analysis
 - Quantitative risk evaluation
 
-🔗 [GitHub](git link)
-
 ---
 
 ### 4. Roller Coaster Physics Analysis
@@ -113,8 +109,6 @@ Analysis of roller coaster motion, forces, and acceleration using theoretical an
 - Accelerometer data analysis
 - Motion and force analysis
 - Experimental validation
-
-🔗 [GitHub](git link)
 
 ---
 

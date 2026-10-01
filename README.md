@@ -144,7 +144,6 @@ Some of the certifications and learning credentials showcased in my portfolio in
 cloemateo/
 │
 ├── index.html                                                                              # Main HTML file
-├── style.css                                                                               # All styling and animations
 ├── README.md                                                                               # Project documentation
 ├── resume.pdf                                                                              # Resume
 │

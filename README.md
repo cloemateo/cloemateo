@@ -200,4 +200,4 @@ cloemateo/
 
 ## 📷 Portfolio Preview
 
-![Portfolio Preview](portfolio%20preview.png)
+![Portfolio Preview](assets/images/portfolio%20preview.png)

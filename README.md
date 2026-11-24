@@ -28,7 +28,7 @@ I’m currently exploring aerospace engineering and technology and looking for o
 
 **Gannon University**  
 B.S. Industrial & Robotics Engineering · Expected May 2027  
-**GPA: 3.918 / 4.0**
+**GPA: 3.912 / 4.0**
 
 ---
 
